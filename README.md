@@ -1,3 +1,5 @@
+> **Archived** — archived on 2026-06-23, no longer maintained. Open issues and PRs were closed without merging.
+
 <p align="center">
   <img align="center" src="https://github.com/prowler-cloud/prowler/blob/master/docs/img/prowler-logo-black.png#gh-light-mode-only" width="50%" height="50%">
   <img align="center" src="https://github.com/prowler-cloud/prowler/blob/master/docs/img/prowler-logo-white.png#gh-dark-mode-only" width="50%" height="50%">
